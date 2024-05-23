@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+tensorflow
+openpyxl  # Required for reading Excel files
+xlsxwriter  # Required for writing Excel files
