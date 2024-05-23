@@ -1,0 +1,9 @@
+
+### Step 4: Commit and Push Changes to GitHub
+
+After creating the `requirements.txt` file and updating the README.md, commit and push these changes to your GitHub repository:
+
+```bash
+git add requirements.txt README.md
+git commit -m "Add requirements.txt and update README.md"
+git push origin main
